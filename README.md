@@ -4,13 +4,19 @@ Spyfall on your mobile device!
 
 This is the code that currently runs [http://spyfall.crabhat.com](http://spyfall.crabhat.com). It's a simple site built as a learning project, so definitely don't use it as an example of Meteor best practices. Pull requests welcome!
 
+My objective with Skyfall is to redesign the game dynamics to be a little bit more pleasing. Just completely overhall everything. I'm very sure you'd like to see this as v3 on crabhat.
+
 ## Disclaimer
 
 [Spyfall](http://international.hobbyworld.ru/spyfall) is a party game designed by Alexandr Ushan and published by [Hobby World](http://international.hobbyworld.ru/). This is an unofficial fan project designed to complement the physical game, and is not endorsed in any way by the designer or publisher.
 
+This specific mod is copyright of Nick Kartha. The new parts put in. In no way is this version commercially useable. Only Alex has rights to edit further.
+
 ## Translations
 
 If you'd like to see the site in your own language, there are two ways to contribute a translation - Transifex or pull request.
+
+PR will be difficult from this considering a lot will be changing. Not all changes will be likeable.
 
 ### Transifex
 
@@ -20,13 +26,19 @@ Transifex is an easy to use translation service. It has a nice interface and is 
 
 Then click the big "Help Translate Spyfall" button. After creating a user account you should be able to start working on a translation right away. Once you're done, I'll be sent an email and will add your translation to the live site as soon as possible.
 
+Lots of shortcomings to this services. Manually doing work is a lot better.
+
 ### Pull request
 
 If you're comfortable with Github and JSON files, feel free to simply create a new file in the `spyfall/i18n` directory, using `en.i18n.json` as a base.
 
+Nah, I'm not comfy at all, mate.
+
 ### Notes for translators
 
 Please make sure that the translations you provide are as close as possible to the original meaning - try not to alter roles or locations, as I'd like the game to still be playable when different players in the same game are using different languages.
+
+Oh, you know tht's what I'm going to do here.
 
 ## Running your own instance with custom locations
 
@@ -57,3 +69,9 @@ To run this instance in a docker container, check out [noamokman/docker-spyfall]
 ## Links
 
 [BoardGameGeek Discussion Thread](http://www.boardgamegeek.com/thread/1279239/app/page/1)
+
+## Discord
+
+Server Link: https://discord.io/spyfall
+
+---
